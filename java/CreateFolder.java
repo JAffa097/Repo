@@ -16,7 +16,7 @@ public static void main(String args[]) {
 	Date date =new Date();
 	createFolder.documentFolderName = df.format(date);
 	String path = "C:\\Users\\krishna reddy\\eclipse-workspace\\Reportgeneration\\src\\main\\resources\\Screenshots";
-	String fileName  = "@ASDF";
+	String fileName  = "@SDF";
 	createFolder.documentPath = path+"//"+fileName+"//"+createFolder.documentFolderName;
 	File file =new File(path,fileName);
 	file.mkdir();
