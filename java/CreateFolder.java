@@ -5,7 +5,7 @@ import java.util.Date;
 public class CreateFolder {
 	public String documentPath = null;
 	public String documentFolderName = null;
-	private String testcaseID="TEST_001";
+	private String testcaseID="TES_001";
 	
 	public void takeScreenshot(String comment, String status) {
 		
