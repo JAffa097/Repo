@@ -191,3 +191,10 @@ public class KafkaProducerIT {
     </plugins>
   </build> -->
 </project>
+
+
+I am not sure about yesterday's discussion, as I was on holiday. However, based on the latest updates regarding embedded Kafka, I have successfully integrated it with the Smartspec framework. I have not yet attempted integration with any microservice.
+
+I have reviewed the spike story for embedded Kafka but could not find the necessary technical details to begin integrating it with a microservice.
+
+Please include the required technical details in the story so that I can start working on it.
